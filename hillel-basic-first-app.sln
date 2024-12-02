@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exceptions", "exceptions\ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cycles", "cycles\cycles.csproj", "{CF21248F-3BAF-467C-ADD9-C97A696543E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collections", "collections\collections.csproj", "{267E95F4-06FC-4AAE-BE17-D1BE3532E94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorythms", "algorythms\algorythms.csproj", "{D4667324-1B30-4798-9A13-47129D2C9F15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{CF21248F-3BAF-467C-ADD9-C97A696543E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF21248F-3BAF-467C-ADD9-C97A696543E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF21248F-3BAF-467C-ADD9-C97A696543E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267E95F4-06FC-4AAE-BE17-D1BE3532E94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267E95F4-06FC-4AAE-BE17-D1BE3532E94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267E95F4-06FC-4AAE-BE17-D1BE3532E94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267E95F4-06FC-4AAE-BE17-D1BE3532E94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4667324-1B30-4798-9A13-47129D2C9F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4667324-1B30-4798-9A13-47129D2C9F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4667324-1B30-4798-9A13-47129D2C9F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4667324-1B30-4798-9A13-47129D2C9F15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
