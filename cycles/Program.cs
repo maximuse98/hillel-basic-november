@@ -1,4 +1,32 @@
-﻿// Цикли
+﻿
+Console.WriteLine("Hello World!");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Цикли
 
 // 1. while
 // 2. do while
